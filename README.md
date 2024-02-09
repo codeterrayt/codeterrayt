@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Digital Business Card On Laravel**
 
-- 🌱 I’m currently learning **System Design, GoLang**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **LAMP, DevOps, MERN, Flask, Laravel, System Design, Data Analysis, Cyber Security, Automation**
 
@@ -36,8 +36,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeterrayt&show_icons=true&locale=en&layout=compact" alt="codeterrayt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeterrayt&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="codeterrayt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeterrayt&show_icons=true&locale=en" alt="codeterrayt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeterrayt&show_icons=true&locale=en&theme=dark&hide_border=false" alt="codeterrayt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeterrayt&" alt="codeterrayt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeterrayt&theme=dark&hide_border=false" alt="codeterrayt" /></p>
