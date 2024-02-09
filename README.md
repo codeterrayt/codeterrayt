@@ -16,12 +16,8 @@
 - 📫 How to reach me **rohanprajapati7860@gmail.com**
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://twitter.com/codeterrayt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeterrayt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/codeterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codeterra" height="30" width="40" /></a>
-<a href="https://instagram.com/codeterrayt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codeterrayt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codeterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeterra" height="30" width="40" /></a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codeterrayt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codeterrayt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codeterra)
+[![Youtube](https://img.shields.io/badge/-Youtube-%23E4405F?logo=youtube&logoColor=white)](https://youtube.com/@codeterra)
 
 <h3 align="left">Languages and Tools:</h3>
 
