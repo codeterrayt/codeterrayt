@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **LAMP, DevOps, MERN, Flask, Laravel, System Design, Data Analysis, Cyber Security, Automation**
+- 💬 Ask me about **LAMP, DevOps, MERN, Flask, Laravel, System Design, Data Analysis, Cyber Security, Automation, and any general software development questions.**
 
 - 📫 How to reach me **rohanprajapati7860@gmail.com**
 
@@ -105,3 +105,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeterrayt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=codeterrayt&icon=0&color=0)](https://visitcount.itsvg.in)
