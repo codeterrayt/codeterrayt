@@ -41,7 +41,7 @@
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)](https://skillicons.dev/icons?i=java)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://skillicons.dev/icons?i=python)
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://skillicons.dev/icons?i=flask)
-[![Go](https://img.shields.io/badge/Go-9cf?style=for-the-badge&logo=go)](https://skillicons.dev/icons?i=go)
+[![Go](https://img.shields.io/badge/Go-white?style=for-the-badge&logo=go)](https://skillicons.dev/icons?i=go)
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://skillicons.dev/icons?i=php)
 [![Pug](https://img.shields.io/badge/Pug-brown?style=for-the-badge&logo=pug)](https://skillicons.dev/icons?i=pug)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://skillicons.dev/icons?i=bootstrap)
