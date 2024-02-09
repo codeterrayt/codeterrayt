@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **System Design**
 
+- 👯 I’m looking to collaborate on: **Fullstack projects**
+
 - 💬 Ask me about **LAMP, DevOps, MERN, Flask, Laravel, System Design, Data Analysis, Cyber Security, Automation, and any general software development questions.**
 
 - 📫 How to reach me **rohanprajapati7860+gr@gmail.com**
