@@ -92,7 +92,7 @@
 [![CanvasJS](https://img.shields.io/badge/canvasjs-2c3e50?style=for-the-badge&logo=canvasjs&logoColor=white)](https://canvasjs.com)
 [![CodeIgniter](https://img.shields.io/badge/codeigniter-9b59b6?style=for-the-badge&logo=codeigniter)](https://codeigniter.com)
 [![Puppeteer](https://img.shields.io/badge/puppeteer-black?style=for-the-badge&logo=puppeteer&logoColor=white)](https://github.com/puppeteer/puppeteer)
-
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 
 
