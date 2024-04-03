@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Digital Business Card On Laravel**
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **System Design, AWS**
 
 - 👯 I’m looking to collaborate on: **Fullstack projects**
 
