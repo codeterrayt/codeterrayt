@@ -95,7 +95,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&badgeColor=009688)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&badgeColor=007ACC)
-
+![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&badgeColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeterrayt&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="codeterrayt" /></p>
