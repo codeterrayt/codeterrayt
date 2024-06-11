@@ -32,6 +32,8 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a><a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a><a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
 
 -->
+
+
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://skillicons.dev/icons?i=html)
 [![CSS](https://img.shields.io/badge/CSS3-005571?style=for-the-badge&logo=css3)](https://skillicons.dev/icons?i=css)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://skillicons.dev/icons?i=js)
@@ -48,7 +50,8 @@
 [![SCSS](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass)](https://skillicons.dev/icons?i=scss)
 [![Material-UI](https://img.shields.io/badge/Material--UI-005571?style=for-the-badge&logo=material-ui)](https://skillicons.dev/icons?i=materialui)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)](https://skillicons.dev/icons?i=tailwindcss)
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://skillicons.dev/icons?i=nodejs)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 [![Kafka](https://img.shields.io/badge/Kafka-red?style=for-the-badge&logo=apachekafka)](https://skillicons.dev/icons?i=kafka)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://skillicons.dev/icons?i=redis)
 [![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)](https://skillicons.dev/icons?i=expressjs)
@@ -95,7 +98,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&badgeColor=009688)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&badgeColor=007ACC)
-![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&badgeColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeterrayt&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="codeterrayt" /></p>
