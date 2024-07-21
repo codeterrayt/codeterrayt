@@ -23,6 +23,9 @@
 
 # 💻 Tech Stack: 
 
+![Copy of Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/811b99bf-380e-4cf2-9cad-de3dd6ec1c55)
+
+
 # Languages
 [![My Skills](https://skillicons.dev/icons?i=python,php,js,ts,wasm,java,c,cpp,cs,golang,html,css,scss)](https://skillicons.dev) 
 - YAML, 
