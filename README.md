@@ -79,6 +79,12 @@
 [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
 - Puppeteer
 
+# Web Scraping 
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+- requests
+- beautifulsoup
+- Puppeteer
+
 # UI UX
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
