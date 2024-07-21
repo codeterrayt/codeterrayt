@@ -37,10 +37,11 @@
 # Frontend Framework | Library
 [![My Skills](https://skillicons.dev/icons?i=react,svelte,alpinejs)](https://skillicons.dev)
 
-
 # CSS Framework | Library 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,mui)](https://skillicons.dev)
 
+# UI UX
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 # Template Engines
 [![My Skills](https://skillicons.dev/icons?i=pug,)](https://skillicons.dev)
@@ -72,6 +73,32 @@
 [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
 - Apache
 - LightSpeed
+
+# Version Management
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+# OS
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev)
+- Parrot
+- Alpine Linux 
+
+# BAAS
+[![My Skills](https://skillicons.dev/icons?i=appwrite)](https://skillicons.dev)
+
+# CDN | Security 
+[![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
+
+# Scripting
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+- Shell
+- Batch
+
+# CMS 
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+
+# CLI Editor
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim)](https://skillicons.dev)
+- VI
 
 # API Development 
 [![My Skills](https://skillicons.dev/icons?i=fastapi,express,laravel,flask)](https://skillicons.dev)
@@ -127,39 +154,10 @@
 - Swing
 - Applet
 
-# UI UX
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
-# Version Management
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-# OS
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev)
-- Parrot
-- Alpine Linux 
-
-# CMS 
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-
-# BAAS
-[![My Skills](https://skillicons.dev/icons?i=appwrite)](https://skillicons.dev)
-
-# CDN | Security 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
-
-# Scripting
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-- Shell
-- Batch
-
 # LLM
 - LangChain
 - Google Gemini
 - Ollama
-
-# CLI Editor
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim)](https://skillicons.dev)
-- VI
 
 # IOT
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
