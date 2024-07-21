@@ -118,7 +118,7 @@
 
 # Socket 
 - Socket.io
-- Laravel Rever
+- Laravel Reverb
 
 # Android Development
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
