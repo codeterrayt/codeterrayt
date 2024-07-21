@@ -21,10 +21,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codeterrayt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codeterrayt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codeterra)
 [![Youtube](https://img.shields.io/badge/-Youtube-%23E4405F?logo=youtube&logoColor=white)](https://youtube.com/@codeterra)
 
-## 💻 Tech Stack: 
+# 💻 Tech Stack: 
 
-
-##Web Frameworks
+## Web Frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,flask,django,nextjs)](https://skillicons.dev) <img src="https://cloud.githubusercontent.com/assets/3203951/11594336/428fbdb8-9a5e-11e5-931b-64e81fe60131.png" height="50" />
 
