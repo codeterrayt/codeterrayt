@@ -23,13 +23,30 @@
 
 # 💻 Tech Stack: 
 
-# Web Frameworks:
+# Languages
+[![My Skills](https://skillicons.dev/icons?i=python,php,js,ts,wasm,java,c,cpp,cs,golang,html,css,scss)](https://skillicons.dev) 
+- YAML, 
+- JSON, 
+- Batch Scripting 
+- Shell Scripting
+- XML
 
+# Web Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=laravel,flask,django,nextjs)](https://skillicons.dev) <img src="https://cloud.githubusercontent.com/assets/3203951/11594336/428fbdb8-9a5e-11e5-931b-64e81fe60131.png" height="50" />
 
 # Frontend Framework | Library
-
 [![My Skills](https://skillicons.dev/icons?i=react,svelte,alpinejs)](https://skillicons.dev)
+
+
+# CSS Framework | Library 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,mui)](https://skillicons.dev)
+
+
+# Template Engines
+[![My Skills](https://skillicons.dev/icons?i=pug,)](https://skillicons.dev)
+- EJS
+- Jinja2 
+- Blade Engine
 
 # Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis,sqlite)](https://skillicons.dev) 
@@ -41,25 +58,8 @@
 - Hostinger
 - Linode
 
-# Languages
-[![My Skills](https://skillicons.dev/icons?i=python,php,js,ts,wasm,java,c,cpp,cs,golang,html,css,scss)](https://skillicons.dev) 
-- YAML, 
-- JSON, 
-- Batch Scripting 
-- Shell Scripting
-- XML
-
-
-# Template Engines
-
-[![My Skills](https://skillicons.dev/icons?i=pug,)](https://skillicons.dev)
-- EJS
-- Jinja2 
-- Blade Engine
-
-
-# CSS Framework | Library 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,mui)](https://skillicons.dev)
+# PAAS | Containerization
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 # Runtime 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,bun,anaconda)](https://skillicons.dev)
@@ -68,12 +68,16 @@
 [![My Skills](https://skillicons.dev/icons?i=kafka,redis)](https://skillicons.dev)
 - Zookeeper
 
-# Android Development
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
+# Web Servers
+[![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+- Apache
+- LightSpeed
 
-# Image Processing 
-[![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
-- NumPy
+# API Development 
+[![My Skills](https://skillicons.dev/icons?i=fastapi,express,laravel,flask)](https://skillicons.dev)
+
+# API Testing 
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 # Web Automation 
 [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
@@ -85,8 +89,33 @@
 - beautifulsoup
 - Puppeteer
 
-# UI UX
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+# Socket 
+- Socket.io
+- Laravel Rever
+
+# Android Development
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
+
+# Machine Learning 
+[![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
+
+# Deep Learning 
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+
+# Data Manipulation | Analysis
+- Pandas
+
+# Numerical Computing
+- Numpy
+
+# Visualization
+- Matplotlib
+- Seaborn
+- Chart.js
+
+# Image Processing 
+[![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+- NumPy
 
 # Game Development
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
@@ -97,6 +126,9 @@
 - Tkinter
 - Swing
 - Applet
+
+# UI UX
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 # Version Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
@@ -115,59 +147,22 @@
 # CDN | Security 
 [![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
 
-# PAAS | Containerization
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
 # Scripting
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 - Shell
 - Batch
-
-# IOT
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-
-# API Testing 
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
-# API Development 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,express,laravel,flask)](https://skillicons.dev)
-
-# Web Servers
-[![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
-- Apache
-- LightSpeed
-
-# Machine Learning 
-[![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
-
-# Deep Learning 
-[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-
-# Visualization
-- Matplotlib
-- Seaborn
-- Chart.js
-
-# Data Manipulation | Analysis
-- Pandas
-
-
-# Numerical Computing
-- Numpy
-
-# Socket 
-- Socket.io
-- Laravel Rever
 
 # LLM
 - LangChain
 - Google Gemini
 - Ollama
 
-
 # CLI Editor
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim)](https://skillicons.dev)
 - VI
+
+# IOT
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 # Other Libraries
 [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
