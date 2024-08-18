@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeterrayt" alt="codeterrayt" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Digital Business Card On Laravel**
+- 🔭 I’m currently working on **Quick Launch**
 
 - 🌱 I’m currently learning **System Design, AWS**
 
