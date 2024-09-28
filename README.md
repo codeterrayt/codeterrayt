@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Quick Deployment**
 
-- 🌱 I’m currently learning **System Design, AWS**
+- 🌱 I’m currently learning **System Design, AWS, Solidity**
 
 - 👯 I’m looking to collaborate on: **Fullstack projects**
 
