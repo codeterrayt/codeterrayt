@@ -71,7 +71,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,bun,anaconda)](https://skillicons.dev)
 
 # Queue System | Distributed Messaging Systems | Pub-Sub
-[![My Skills](https://skillicons.dev/icons?i=kafka,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,redis,rabbitmq)](https://skillicons.dev)
 - Zookeeper
 
 # Web Servers
