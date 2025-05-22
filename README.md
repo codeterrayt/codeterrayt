@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact@rohanprajapati.dev**
   
-- 🗂️ Portfolio [**rohanprajapati.dev**](https://www.rohanprajapati.dev) (Under Dev.)
+- 🗂️ Portfolio [**rohanprajapati.dev**](https://www.rohanprajapati.dev)
 - 🗂️ Peerlist Portfolio [**profile.rohanprajapati.dev**](https://profile.rohanprajapati.dev) 
 
 # 🌐 Socials:
